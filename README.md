@@ -1,6 +1,6 @@
-# Basic C++: Data Types
+# Basic C++: Bitwise Operators
 
-This example shows most of the different data types used in C++. It also demonstrates the use of sizeof to get the size of types and variables.
+This example shows the usage of each of the bitwise operators to manipulate bits in data.
 
 # Setup
 

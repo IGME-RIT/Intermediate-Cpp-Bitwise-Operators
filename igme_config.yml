@@ -1,10 +1,10 @@
-series: Basic C++
-title: Data Types
+series: Intermediate C++
+title: Bitwise Operators
 author:
   name: David Erbelding
   email: daviderbelding@gmail.com
   github: https://github.com/Erbelding
-description: An in depth look at basic data types in C++.
+description: Bitwise operators can be used to manipulate individual bits in your data.
 language: C++
 tags:
   - Core
@@ -13,4 +13,6 @@ extra_resources:
     title: More Information about C++ data types.
 connections:
   - series: Basic C++
-    title: Hello World!
+    title: Functions
+  - series: Basic C++
+    title: Casting Data
