@@ -9,8 +9,6 @@ language: C++
 tags:
   - Core
 extra_resources:
-  - link: http://www.cplusplus.com/doc/tutorial/variables/
-    title: More Information about C++ data types.
 connections:
   - series: Basic C++
     title: Functions
