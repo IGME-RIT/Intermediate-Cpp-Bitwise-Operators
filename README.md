@@ -1,4 +1,4 @@
-# Basic C++: Bitwise Operators
+# Intermediate C++: Bitwise Operators
 
 This example shows the usage of each of the bitwise operators to manipulate bits in data.
 
